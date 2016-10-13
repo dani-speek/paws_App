@@ -171,8 +171,7 @@
 	</div>
 	<br><br>
 	<div align="center" ><a href="#"><img src="Images/social.png"/></a></div><br><br>
-	
-	<script src="phonegap.js"></script>
+
 </body>
 <footer>
       <p align="center">&copy; 2016 - PAWS - All rights reserved</p>
